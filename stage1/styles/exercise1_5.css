@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+
+    height:300px;
+
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+#sq2{
+    align-self: center;
+   /* margin-left: 100px; */
+}
+#sq5{
+    align-self: center;
+   /* margin-left: 100px; */
+}
+#sq8{
+    align-self: center;
+   /* margin-left: 100px; */
+}
+
+#sq3{
+    align-self:flex-end;
+    /* margin-left: 200px; */
+ }
+ #sq6{
+    align-self:flex-end;
+    /* margin-left: 200px; */
+ }
+ #sq9{
+    align-self:flex-end;
+    /* margin-left: 200px; */
+ }
+
+ #sq4{
+    margin-left:-200px;
+ }
+
+ #sq7{
+    margin-left:-200px;
+ }
